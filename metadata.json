@@ -1,0 +1,7 @@
+{
+  "name": "Service Provider Hub",
+  "description": "A responsive web application to manage a comprehensive database of service providers. Features include detailed profiles, service histories, ratings, AI-powered OCR for contact entry from images, and various import/export options including QR code sharing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
